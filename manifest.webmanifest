@@ -1,6 +1,6 @@
 {
-    "name": "RRK Configurator",
-    "short_name": "RRK Configurator",
+    "name": "RKK Configurator",
+    "short_name": "RKK Configurator",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
