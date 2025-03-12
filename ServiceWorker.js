@@ -1,9 +1,9 @@
 const cacheName = "JNZ_Rkk-RRK Configurator-0.0.1";
 const contentToCache = [
-    "Build/RKK.loader.js",
-    "Build/RKK.framework.js",
-    "Build/RKK.data",
-    "Build/RKK.wasm",
+    "Build/rkk_webgl.loader.js",
+    "Build/rkk_webgl.framework.js",
+    "Build/rkk_webgl.data",
+    "Build/rkk_webgl.wasm",
     "TemplateData/style.css"
 
 ];
